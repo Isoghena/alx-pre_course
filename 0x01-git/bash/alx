@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ALX school is so cool!
+=======
+
+#!/bin/bash
+The school is open!root@8fad02063251:~/alx-pre_course/0x01-git/bash#  ls
+>>>>>>> update_script
